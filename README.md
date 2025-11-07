@@ -2,7 +2,7 @@
 
 This project is an AI-powered recommendation system built to suggest the most relevant SHL assessments based on user queries, job descriptions, or unstructured input data. It combines NLP techniques and Large Language Models (LLMs) to provide accurate, efficient, and context-aware results through an intuitive frontend interface.
 
-Try it out @ https://shlassessmentrecommendationsystem.streamlit.app [Example Test Cases given below]
+
 
 ## Features
 
@@ -63,5 +63,3 @@ for an assessment(s) that can be completed in 40 minutes.
 assessment package that can test all skills with max duration of 60 minutes.
 - I am hiring for an analyst and wants applications to screen using Cognitive and personality tests,
 what options are available within 45 mins.
-- https://www.linkedin.com/jobs/view/research-engineer-ai-at-shl-4194768899/?originalSubdomain=in
-- Want to assess communication and teamwork skills in under 30 minutes.
